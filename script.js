@@ -12,4 +12,5 @@ const ex1c = document.getElementById('ex1_content')
     ex1c.innerHTML = data;
   })
 
+  
 })();
